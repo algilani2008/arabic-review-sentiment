@@ -1,5 +1,7 @@
 # Arabic Review Sentiment: an honest training run on LABR
 
+**🌐 الموقع:** https://algilani2008.github.io/arabic-review-sentiment/ | **📖 الشرح بالعربي:** [شرح_المشروع.md](شرح_المشروع.md)
+
 Trains a small, CPU-only classifier that labels Arabic reviews as positive or
 negative, using 48,274 real book reviews. The focus is on measuring it fairly:
 books in the test set are never seen in training, duplicates are removed, and
