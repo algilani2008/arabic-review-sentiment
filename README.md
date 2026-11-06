@@ -176,3 +176,9 @@ plots.py      charts
 tests/        pytest suite
 results/      metrics, tables and charts from the full run
 ```
+
+## الرخصة | License
+
+الكود برخصة [MIT](LICENSE). أما البيانات والمصادر الخارجية فتبقى على شروطها الأصلية.
+
+The code is under the [MIT License](LICENSE). Data and third-party sources keep their own terms.
